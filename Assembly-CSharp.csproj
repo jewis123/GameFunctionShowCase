@@ -134,10 +134,12 @@
      <Compile Include="Assets\DialogExample\Nodes\Statement.cs" />
      <Compile Include="Assets\DialogExample\Util\LazyDictionary.cs" />
      <Compile Include="Assets\DialogExample\Util\SerializationInfoExtensions.cs" />
-     <Compile Include="Assets\ParticleMask\Use2DrectMask\SendMaskArea.cs" />
-     <Compile Include="Assets\ParticleMask\UseMask\Demo\UIParticle_Demo.cs" />
-     <Compile Include="Assets\ParticleMask\UseMask\Demo\UIParticleSystem_Demo.cs" />
-     <Compile Include="Assets\ParticleMask\UseMask\UIParticle.cs" />
+     <Compile Include="Assets\EventSystem\EventEnum.cs" />
+     <Compile Include="Assets\EventSystem\EventManager.cs" />
+     <Compile Include="Assets\EventSystem\ListenerA.cs" />
+     <Compile Include="Assets\EventSystem\ListenerB.cs" />
+     <Compile Include="Assets\EventSystem\ModEventSystem.cs" />
+     <Compile Include="Assets\EventSystem\Test.cs" />
      <Compile Include="Assets\PoolerExample\DisableAfterTime.cs" />
      <Compile Include="Assets\PoolerExample\MakeBall.cs" />
      <Compile Include="Assets\PoolerExample\ObjectPooler.cs" />
@@ -152,9 +154,8 @@
      <Compile Include="Assets\RedPoint\Scripts\NotifyTestUI2.cs" />
      <Compile Include="Assets\Timer\Test.cs" />
      <Compile Include="Assets\Timer\TimerCtrl.cs" />
-     <None Include="Assets\ParticleMask\Use2DrectMask\Particle Add.shader" />
-     <None Include="Assets\ParticleMask\UseMask\UIAdditive.shader" />
-     <None Include="Assets\ParticleMask\UseMask\LICENSE.txt" />
+     <Compile Include="Assets\UVRect\NewBehaviourScript.cs" />
+     <None Include="Assets\ParticleMask\参考地址.txt" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>E:/Unity2017X/4.18/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
  </Reference>

@@ -86,7 +86,6 @@
      <Compile Include="Assets\DialogExample\Editor\Tests\Nodes\JumpTest.cs" />
      <Compile Include="Assets\DialogExample\Editor\Tests\Nodes\LabelTest.cs" />
      <Compile Include="Assets\DialogExample\Editor\Tests\Nodes\ReturnTest.cs" />
-     <Compile Include="Assets\ParticleMask\UseMask\Editor\UIParticleEditor.cs" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>E:/Unity2017X/4.18/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
  </Reference>
